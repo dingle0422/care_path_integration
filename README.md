@@ -8,3 +8,9 @@
 # Instruction:
 ## example:
 ## ![图片](https://user-images.githubusercontent.com/68275662/111121964-501cd980-85a8-11eb-81e9-376b8fff3a96.png)
+
+
+
+# Apriori Algo:
+## If you want to dig out frequent item-set, please enter Apriori-folder and check the algo we generated.
+## You can apply the algo to Care_path data to output the data-structure fitting sankey plot.
